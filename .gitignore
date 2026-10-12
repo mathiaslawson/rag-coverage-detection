@@ -1,0 +1,6 @@
+emb.npy
+passages.json
+questions/
+__pycache__/
+.ipynb_checkpoints/
+*.pyc
